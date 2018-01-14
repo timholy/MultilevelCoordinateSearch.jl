@@ -1,5 +1,10 @@
 module MultilevelCoordinateSearch
 
-# package code goes here
+using StaticArrays
+using Compat
+
+include("types.jl")
+include("init.jl")
+include("util.jl")
 
 end # module
