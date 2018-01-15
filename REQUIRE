@@ -1,3 +1,4 @@
 julia 0.6
 StaticArrays
+DataStructures
 Compat 0.44

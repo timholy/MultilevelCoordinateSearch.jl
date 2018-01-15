@@ -1,6 +1,6 @@
 module MultilevelCoordinateSearch
 
-using StaticArrays
+using StaticArrays, DataStructures
 using Compat
 
 include("types.jl")
