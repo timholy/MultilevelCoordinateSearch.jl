@@ -8,4 +8,4 @@ This is an implementation of [Multilevel Coordinate Search](http://www.mat.univi
 
 This implementation is "fresh" from the original paper, and is not based on the Matlab code provided [by the authors](https://www.mat.univie.ac.at/~neum/software/mcs/).
 
-Status: work in progress.
+Status: work in progress. Until it's finished (if it ever will be), check out my [QuadDIRECT](https://github.com/timholy/QuadDIRECT.jl).
